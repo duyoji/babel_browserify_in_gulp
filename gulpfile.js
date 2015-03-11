@@ -10,6 +10,7 @@ gulp.task('default', function () {
     return gulp.src('src/**/*.js')
         .pipe(sourcemaps.init())
         .pipe(babel())
+        .pipe(browserify())
         // .pipe(
         //     browserify({
         //         transform: ['reactify']
