@@ -1,4 +1,6 @@
-class BaseView {
+import BaseObject from '../core/BaseObject';
+
+class BaseView extends BaseObject {
     constructor(name = 'default view name') {
         this._name = name;
     }
