@@ -1,6 +1,6 @@
-import BaseController from "./src/controller/BaseController";
-import BaseModel      from "./src/model/BaseModel";
-import BaseView       from "./src/view/BaseView";
+import BaseController from './src/controller/BaseController';
+import BaseModel      from './src/model/BaseModel';
+import BaseView       from './src/view/BaseView';
 
 class Main {
     static main() {
