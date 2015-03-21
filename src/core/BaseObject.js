@@ -6,4 +6,4 @@ class BaseObject {
     }
 }
 
-module.exports = BaseObject;
+export default BaseObject;

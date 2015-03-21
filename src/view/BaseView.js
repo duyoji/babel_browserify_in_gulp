@@ -10,4 +10,4 @@ class BaseView extends BaseObject {
     }
 }
 
-module.exports = BaseView;
+export default BaseView;
