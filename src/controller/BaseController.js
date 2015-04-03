@@ -10,4 +10,4 @@ class BaseController extends BaseObject {
     }
 }
 
-module.exports = BaseController;
+export default BaseController;

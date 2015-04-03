@@ -10,4 +10,4 @@ class BaseModel extends BaseObject {
     }
 }
 
-module.exports = BaseModel;
+export default BaseModel;
